@@ -1,0 +1,5 @@
+username,password,role,perusahaan,telp,email,alamat,pic
+admin,admin123,admin,-,-,-,-,-
+panganmakmur,panganmakmur123,pelanggan,PT Pangan Makmur,(021)8934-5566,operation@panganmakmur.co.id,"Kawasan Industri Jababeka I, Jl. Jababeka Raya Blok H-12 Cikarang Bekasi Jawa Barat 17530",Bp. Heru (Manajer Produksi)
+bajapresisi,bajapresisi123,pelanggan,PT Baja Presisi,(0267)440-9988,maintenance@bajapresisi.com,Kawasan Industri KIIC Jl. Permata Raya Lot C-7 Karawang Barat Jawa Barat 41361,Ibu Maya (Kepala Engineering)
+kayunusantara,kayunusantara123,pelanggan,PT Kayu Nusantara,(024)658-1122,factory@kayunusantara.co.id,Jl. Industri Terboyo No. 45 Kawasan Industri Terboyo Genuk Semarang Jawa Tengah 50118,Bp. Aris (Workshop Supervisor)

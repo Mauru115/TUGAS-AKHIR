@@ -1,0 +1,98 @@
+kode_mesin,nama_mesin,kategori,perusahaan,status,interval_servis_hari,lokasi,jam_operasi,tgl_instalasi
+M001,Mesin Rotary Packaging,Packaging,PT Pangan Makmur,Rusak,60,Gudang A,1950,2022-01-10
+M003,Plastic Extrusion Machine,Plastic,PT Baja Presisi,Aktif,125,Workshop,3200,2021-06-20
+M004,Main Belt Conveyor,Logistics,PT Pangan Makmur,Rusak,187,Warehouse,4500,2020-12-01
+M005,Industrial Ribbon Blender,Food & Beverage,PT Pangan Makmur,Aktif,62,Production,1800,2022-08-15
+M006,Liquid Filling Machine,Packaging,PT Pangan Makmur,Dalam Servis,50,Line 1,1600,2022-03-10
+M007,Robotic Palletizer,Logistics,PT Baja Presisi,Aktif,93,Loading Bay,2500,2021-09-05
+M008,Industrial Steam Boiler,Utilities,PT Pangan Makmur,Aktif,250,Utility Room,5000,2019-11-20
+M009,Rotary Screw Compressor,Utilities,PT Baja Presisi,Aktif,125,Utility Room,3100,2021-02-10
+M010,Hydraulic Stamping Press,Metalworking,PT Baja Presisi,Rusak,156,Workshop A,4200,2020-05-22
+M011,CNC Milling Machine,Metalworking,PT Baja Presisi,Aktif,93,Workshop B,2800,2021-11-12
+M013,Laser Cutting Machine,Metalworking,PT Baja Presisi,Rusak,125,Production Hall,1900,2022-04-18
+M014,Plasma Cutting Machine,Metalworking,PT Baja Presisi,Aktif,62,Production Hall,2200,2022-01-05
+M015,Waterjet Cutting Machine,Metalworking,PT Baja Presisi,Aktif,187,Workshop A,1500,2023-02-20
+M016,Injection Molding Machine,Plastic,PT Baja Presisi,Aktif,125,Line Plastic,3400,2021-03-15
+M017,Blow Molding Machine,Plastic,PT Baja Presisi,Aktif,93,Line Plastic,2900,2021-08-10
+M018,Thermoforming Machine,Plastic,PT Baja Presisi,Aktif,125,Line Plastic,2100,2022-05-30
+M019,Industrial Chiller,Utilities,PT Pangan Makmur,Aktif,187,Outdoor Yard,4800,2020-01-14
+M020,Cooling Tower System,Utilities,PT Pangan Makmur,Aktif,187,Rooftop,5200,2019-09-05
+M021,Horizontal Flow Wrapper,Packaging,PT Pangan Makmur,Aktif,62,Line 3,1750,2022-07-22
+M022,Vertical Form Fill Seal,Packaging,PT Pangan Makmur,Aktif,62,Line 3,1850,2022-06-18
+M023,Checkweigher System,Packaging,PT Pangan Makmur,Aktif,31,Line 1,950,2023-10-12
+M024,Metal Detector Machine,Food Safety,PT Pangan Makmur,Aktif,31,Line 1,1100,2023-08-05
+M025,X-Ray Inspection System,Food Safety,PT Pangan Makmur,Aktif,93,Line 2,1300,2023-01-20
+M026,Industrial Oven,Food & Beverage,PT Pangan Makmur,Aktif,125,Baking Area,3800,2020-11-15
+M027,Tunnel Freezer,Food & Beverage,PT Pangan Makmur,Aktif,250,Cold Storage,4100,2020-04-10
+M028,Meat Grinder Industrial,Food & Beverage,PT Pangan Makmur,Aktif,62,Processing,1200,2023-03-14
+M029,Vacuum Tumbler,Food & Beverage,PT Pangan Makmur,Aktif,93,Processing,1450,2022-11-01
+M030,Brine Injector,Food & Beverage,PT Pangan Makmur,Aktif,93,Processing,1600,2022-10-25
+M031,Wood Planer Industrial,Woodworking,PT Kayu Nusantara,Aktif,62,Sawmill,2900,2021-04-05
+M032,Panel Saw Machine,Woodworking,PT Kayu Nusantara,Aktif,93,Cutting Room,3200,2020-12-18
+M033,Edge Bander Machine,Woodworking,PT Kayu Nusantara,Aktif,93,Finishing,2100,2022-02-10
+M034,Wide Belt Sander,Woodworking,PT Kayu Nusantara,Dalam Servis,125,Finishing,2400,2021-09-22
+M035,CNC Wood Router,Woodworking,PT Kayu Nusantara,Aktif,125,Cutting Room,1800,2022-11-30
+M036,Forklift Electric 2T,Logistics,PT Pangan Makmur,Aktif,93,Warehouse A,3500,2020-07-15
+M037,Forklift Diesel 5T,Logistics,PT Baja Presisi,Dalam Servis,93,Stockyard,4200,2019-05-20
+M038,Electric Pallet Jack,Logistics,PT Pangan Makmur,Aktif,31,Loading Dock,800,2023-12-05
+M039,Overhead Crane 10T,Logistics,PT Baja Presisi,Dalam Servis,250,Workshop A,5600,2018-10-12
+M040,Dock Leveler System,Logistics,PT Pangan Makmur,Aktif,187,Loading Dock,2100,2021-01-25
+M041,Induction Furnace,Metalworking,PT Baja Presisi,Aktif,250,Smelting,6200,2018-03-10
+M042,Continuous Casting Machine,Metalworking,PT Baja Presisi,Aktif,365,Casting Hall,7500,2017-11-15
+M043,Rolling Mill Stand,Metalworking,PT Baja Presisi,Aktif,187,Production Line,5100,2019-08-20
+M044,Surface Grinder,Metalworking,PT Baja Presisi,Dalam Servis,93,Maintenance,1200,2023-05-05
+M045,Cylindrical Grinder,Metalworking,PT Baja Presisi,Aktif,93,Maintenance,1350,2023-04-18
+M046,Hardness Tester,Quality Control,PT Baja Presisi,Aktif,365,Lab,400,2024-01-10
+M047,Spectrometer,Quality Control,PT Baja Presisi,Dalam Servis,365,Lab,350,2024-02-15
+M048,Air Handling Unit AHU,Utilities,PT Pangan Makmur,Aktif,187,Rooftop,3900,2020-09-22
+M049,Industrial Water Filter,Utilities,PT Pangan Makmur,Aktif,93,Utility Room,2100,2022-03-05
+M050,Reverse Osmosis System,Utilities,PT Pangan Makmur,Aktif,93,Utility Room,1950,2022-05-12
+M051,Paper Corrugator,Packaging,PT Pangan Makmur,Rusak,187,Line 4,4600,2019-12-10
+M052,Die Cutting Machine,Packaging,PT Pangan Makmur,Dalam Servis,125,Line 4,3200,2021-02-28
+M053,Folder Gluer Machine,Packaging,PT Pangan Makmur,Aktif,125,Line 4,2800,2021-07-15
+M054,Flexo Printing Press,Packaging,PT Pangan Makmur,Aktif,156,Line 5,5300,2018-11-20
+M055,Slitter Rewinder,Packaging,PT Pangan Makmur,Aktif,125,Line 5,3100,2021-03-05
+M056,Steam Turbine Gen,Utilities,PT Baja Presisi,Aktif,365,Power House,8200,2017-01-20
+M057,Diesel Generator Set,Utilities,PT Baja Presisi,Dalam Servis,187,Gen Room,1200,2022-08-10
+M058,Transformator 2500kVA,Utilities,PT Baja Presisi,Aktif,365,Substation,9000,2016-05-15
+M059,Air Dryer Industrial,Utilities,PT Baja Presisi,Aktif,125,Utility Room,2400,2021-10-22
+M060,Oil Water Separator,Utilities,PT Baja Presisi,Dalam Servis,187,Waste Area,1800,2022-09-05
+M061,Paint Spray Booth,Finishing,PT Kayu Nusantara,Dalam Servis,93,Finishing,2600,2021-05-12
+M062,Powder Coating Line,Finishing,PT Baja Presisi,Dalam Servis,187,Workshop B,3800,2020-10-25
+M063,Degreasing Tank,Finishing,PT Baja Presisi,Aktif,93,Workshop B,1500,2023-01-15
+M064,Drying Oven Industrial,Finishing,PT Kayu Nusantara,Aktif,125,Finishing,2950,2021-02-10
+M065,Sandblasting Cabinet,Finishing,PT Baja Presisi,Aktif,62,Workshop B,1100,2023-06-20
+M066,Centrifugal Pump,Utilities,PT Pangan Makmur,Aktif,93,Pump House,3200,2021-04-18
+M067,Submersible Pump,Utilities,PT Pangan Makmur,Aktif,93,Well Area,2100,2022-02-05
+M068,Gearbox Drive Unit,Logistics,PT Pangan Makmur,Aktif,187,Conveyor Line,4200,2020-06-30
+M069,Variable Speed Drive,Utilities,PT Baja Presisi,Aktif,365,Control Room,1500,2023-03-22
+M070,PLC Control Panel,Utilities,PT Baja Presisi,Dalam Servis,365,Control Room,1400,2023-04-05
+M071,Bag Filter House,Environment,PT Baja Presisi,Aktif,187,Yard B,3700,2020-12-12
+M072,Scrubber System,Environment,PT Baja Presisi,Aktif,187,Yard B,3400,2021-01-15
+M073,Waste Water Plant,Environment,PT Pangan Makmur,Aktif,365,WTP Area,5800,2019-03-20
+M074,Incinerator Unit,Environment,PT Pangan Makmur,Dalam Servis,365,Waste Yard,4900,2020-02-10
+M075,Exhaust Fan Axial,Utilities,PT Kayu Nusantara,Aktif,93,Finishing,2200,2022-01-25
+M076,Pneumatic Press,Assembly,PT Baja Presisi,Aktif,62,Line 7,1300,2023-05-14
+M077,Screw Capping Machine,Packaging,PT Pangan Makmur,Aktif,62,Line 3,1150,2023-07-20
+M078,Induction Sealer,Packaging,PT Pangan Makmur,Aktif,62,Line 3,900,2023-09-05
+M079,Shrink Tunnel,Packaging,PT Pangan Makmur,Aktif,93,Line 3,2400,2021-11-22
+M080,Carton Erector,Packaging,PT Pangan Makmur,Aktif,93,Line 4,2100,2022-04-10
+M081,Case Sealer Machine,Packaging,PT Pangan Makmur,Dalam Servis,93,Line 4,1950,2022-06-15
+M082,Stretch Wrapper,Logistics,PT Pangan Makmur,Aktif,93,Loading Bay,1600,2022-10-18
+M083,Air Curtain System,Utilities,PT Pangan Makmur,Aktif,187,Main Gate,1200,2023-01-30
+M084,Automatic Door Motor,Utilities,PT Pangan Makmur,Aktif,365,Warehouse,800,2023-11-12
+M085,Batch Coding Inkjet,Packaging,PT Pangan Makmur,Aktif,31,Line 2,1450,2022-12-05
+M086,Laser Coder,Packaging,PT Pangan Makmur,Aktif,93,Line 5,1100,2023-05-20
+M087,Label Applicator,Packaging,PT Pangan Makmur,Aktif,31,Line 1,1200,2023-04-22
+M088,Conveyor Diverter,Logistics,PT Pangan Makmur,Aktif,187,Sorter Line,2800,2021-08-14
+M090,Bucket Elevator,Logistics,PT Pangan Makmur,Aktif,187,Processing,4400,2020-05-18
+M091,Screw Conveyor,Logistics,PT Pangan Makmur,Dalam Servis,187,Processing,3900,2020-10-30
+M092,Vibratory Feeder,Processing,PT Pangan Makmur,Aktif,93,Line 2,1700,2022-07-12
+M093,Magnetic Separator,Processing,PT Baja Presisi,Aktif,187,Line 6,2200,2021-12-05
+M094,Metal Baler Machine,Recycling,PT Baja Presisi,Aktif,187,Yard A,3500,2020-08-22
+M095,Plastic Shredder,Recycling,PT Baja Presisi,Aktif,125,Yard A,2100,2022-03-14
+M096,Baling Press,Recycling,PT Kayu Nusantara,Aktif,187,Yard,1950,2022-06-05
+M097,Air Purifier Industrial,Utilities,PT Pangan Makmur,Aktif,93,Lab,1100,2023-02-10
+M098,Digital Scale 500kg,Quality Control,PT Pangan Makmur,Dalam Servis,187,Receiving,500,2023-12-20
+M099,Hydraulic Power Pack,Utilities,PT Baja Presisi,Aktif,125,Workshop A,2800,2021-09-12
+M100,Pneumatic Valve Manifold,Utilities,PT Baja Presisi,Aktif,365,Production,900,2023-08-15
